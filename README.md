@@ -1,27 +1,17 @@
-# Bottoms Up
+<!-- omit in toc -->
+# Bottoms-Up
+
+<!-- omit in toc -->
+## Table of Contents
+- [Overview](#overview)
+- [Technologies Used](#technologies-used)
+- [Screen Capture](#screen-capture)
+- [Live Application](#live-application)
+- [Server-Side APIs and Brewery Dataset](#server-side-apis-and-brewery-dataset)
+- [Contributors](#contributors)
+
+## Overview 
 An app designed to help people search for breweries by their postal code. The user can use it to search for breweries within the boundaries of their postal code and seek Google User rating information for each brewery searched. 
-
-## User-Story
-```
-As A user
-I WANT to see breweries in my city
-SO THAT I can make plans accordingly
-```
-
-## Acceptance Criteria
-```
-Given that I am using a brewery finder to make plans
-When I open the app
-Then a basic UI is displayed with a text input form at the left of the page
-When I proceed to add my brewery search filters
-Then the form allows me to add my specific filters
-When I proceed to submit my filters
-Then I can click on the submit button to begin looking for breweries
-When I proceed to clear my search filters
-Then I can click on the clear button to reset my filters
-When I finish submitting my filters
-Then I can view a list of breweries that meet my search criteria
-```
 
 ## Technologies Used
 <div style="display: inline_block"><br>
@@ -39,7 +29,7 @@ Then I can view a list of breweries that meet my search criteria
 ## Live Application
 [Link](https://leinadzz.github.io/Bottoms-Up-API/)
 
-## Server-Side APIs & Brewery Dataset
+## Server-Side APIs and Brewery Dataset
 - [Open Brewery DB](https://www.openbrewerydb.org/)
 - [Open Brewery DB Dataset](https://github.com/openbrewerydb/openbrewerydb/tree/master/data/)
 - [Free Google Maps Places API](https://rapidapi.com/unbundling-search-unbundling-search-default/api/google-maps28/)
