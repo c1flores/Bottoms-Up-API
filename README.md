@@ -35,9 +35,10 @@ An app designed to help people search for breweries by their postal code. The us
 - [Free Google Maps Places API](https://rapidapi.com/unbundling-search-unbundling-search-default/api/google-maps28/)
 
 ## Contributors
-- [Christian Flores](https://github.com/c1flores)
-- [Christopher Goldsmith](https://github.com/CArmstrong2)
-- [Daniel Gutierrez](https://github.com/LeinadZz)
-- [Dayian Martinez](https://github.com/Dayian24)
+Visit our GitHubs:
+[Christian Flores](https://github.com/c1flores)
+[Christopher Goldsmith](https://github.com/CArmstrong2)
+[Daniel Gutierrez](https://github.com/LeinadZz)
+[Dayian Martinez](https://github.com/Dayian24)
 
 
